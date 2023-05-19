@@ -5,6 +5,12 @@
       "body": "This is the first test of the blog system I'm developing for my tech portfolio. I studied code all night again and finally got a version up and running after hours of trys. I'll never give up, that's what programming taught me. ",
       "author": "Mitch",
       "id": 1
+    },
+    {
+      "title": "a",
+      "body": "a",
+      "author": "Mitch",
+      "id": 2
     }
   ]
 }
